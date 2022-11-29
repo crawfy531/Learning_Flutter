@@ -1,15 +1,13 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 In my exploration of learning flutter, I showed my progress of learning this language through creating a simple hide and seek program. This program is a single screen program that
-can be run on a mobile device. The way this program works is there is 
-
-{Provide a description of your app. Describe how to use the app.}
-
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+can be run on a mobile device. The way this program works is that it displays the name of the game, simple instructions, a grid of Os with one X, and four buttons with
+movement directions written on them. The player is the X, in order to move the player the user much press one of the buttons to move the player in the specified 
+direction. If the player is directed to move outside of the grid, the player will be moved to the opposite side of the grid. As the player is moving, the user wants
+to find the place in the grid where the directions will say that they have won and that they have found the treasure. The treasure is in a random generated position 
+on the grid and has no specifications showing where it is. To make this program I learned some helpful things about flutter like what stateful widgets are and how
+to make theme data. This is the first mobile app that I have ever programmed and I found that learning how to program this app has helped me broaden my understanding
+of some of the different uses for code.
 
 [Software Demo Video](https://youtu.be/3KAcTtoJaRw)
 
